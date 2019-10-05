@@ -1,2 +1,4 @@
 # hello-world
-Rpozitoriy dlya rabot
+Repozitoriy dlya rabot
+
+Nachal rabotu poka vse
